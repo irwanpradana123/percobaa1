@@ -7,9 +7,15 @@ bahasa yang akan di pelajari
   >framework poco
 - pemrograman C#
 - pemrograman java
-  >framework grails
-- pemrograman php
-  >framework laravel
-- pemrograman javascript
-  >framework react
-  > angular
+  > framework java
+    ^ Spring
+    ^ Struts
+- php
+  > framework PHP
+    ^ Laravel
+    ^ CodeIgniter
+    ^ Phalcon
+- javascript
+  >framework java
+   ^ angular
+   ^  Vue
